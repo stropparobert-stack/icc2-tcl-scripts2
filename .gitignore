@@ -1,0 +1,8 @@
+# Tcl/EDA 简易忽略
+*.log
+*.rpt
+*.csv
+*.tmp
+reports/**
+logs/**
+.DS_Store
